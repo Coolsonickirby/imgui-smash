@@ -52,6 +52,8 @@ pub fn main() { // Make sure to just add these lines in YOUR main function inste
 
 This will set up your plugin to allow you to create ImGUI windows. You can check out an example on the [Gist](https://gist.github.com/Coolsonickirby/89f2a895b0e06177cbbfd21523b0ac3e).
 
+**If you're planning on making a chainloaded plugin that uses ImGUI, then you can check out this example on [Gist](https://gist.github.com/Coolsonickirby/0ff7a7bb58fe6bd9456196cc0803f9ef).**
+
 ## Compiling
 (Recommend using Linux directly or WSL for compiling this plugin)
 
